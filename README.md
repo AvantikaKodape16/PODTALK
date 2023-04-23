@@ -63,4 +63,4 @@ Build my-project with:
 ```
 
 ## LIVE DEMO:
-<a href = "https://podtalk-website.netlify.app/"> CLICK HERE </a>
+<a href = "https://podtalk-web.netlify.app/"> WATCH </a>
